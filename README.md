@@ -1,4 +1,4 @@
-# 💳 Credit Card Financial Dashboard
+# 💳 Customer & Transaction Analysis Dashboard
 
 
 ## 📌 Project Overview
